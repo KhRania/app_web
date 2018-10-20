@@ -1,4 +1,2 @@
 # app_web
-hello world !
-test
-autre modif 
+Bonjour c'est un essai d'utilisation de git et github
